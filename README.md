@@ -1,2 +1,3 @@
-# pyqt5_docent
-A new day and a new skill
+## Understanding PyQt5
+My own guide
+<hr>
