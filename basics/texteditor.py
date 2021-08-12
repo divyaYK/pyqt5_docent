@@ -1,5 +1,5 @@
 import sys
-from PyQt5.QtWidgets import QPushButton, QSpinBox, QTextEdit, QWidget, QApplication
+from PyQt5.QtWidgets import QPushButton, QTextEdit, QWidget, QApplication
 
 class Window(QWidget):
   def __init__(self):
