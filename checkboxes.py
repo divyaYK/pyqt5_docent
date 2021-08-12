@@ -1,11 +1,11 @@
 import sys
-from PyQt5.QtWidgets import QCheckBox, QLineEdit, QPushButton, QWidget, QApplication, QLabel
+from PyQt5.QtWidgets import QCheckBox, QLineEdit, QPushButton, QWidget, QApplication
 
 class Window(QWidget):
   def __init__(self):
     super().__init__()
     self.setGeometry(50, 50, 640, 480)  # x, y and w, h
-    self.setWindowTitle("Simple Window")
+    self.setWindowTitle("CheckBoxes")
     self.UI()
 
   def UI(self):

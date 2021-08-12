@@ -8,3 +8,4 @@ Contents Include:
 - QLineEdit Widget
 - Images
 - CheckBoxes
+- ComboBox

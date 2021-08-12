@@ -6,7 +6,7 @@ class Window(QWidget):
   def __init__(self):
     super().__init__()
     self.setGeometry(50, 50, 1050, 600)  # x, y and w, h
-    self.setWindowTitle("Simple Window")
+    self.setWindowTitle("Images")
     self.UI()
 
   def UI(self):
