@@ -10,3 +10,4 @@ Contents Include:
 - CheckBoxes
 - ComboBox
 - RadioBox
+- MessageBox
