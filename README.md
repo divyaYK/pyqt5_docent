@@ -14,3 +14,4 @@ Contents Include:
 - SpinBox
 - Text Editor Widget
 - Timer Widget
+- List Widget
