@@ -5,3 +5,4 @@ Contents Include:
 - Simple Window Creation
 - Label Creation
 - Button Creation
+- QLineEdit Widget
