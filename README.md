@@ -6,3 +6,4 @@ Contents Include:
 - Label Creation
 - Button Creation
 - QLineEdit Widget
+- Images
