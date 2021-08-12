@@ -7,3 +7,4 @@ Contents Include:
 - Button Creation
 - QLineEdit Widget
 - Images
+- CheckBoxes
