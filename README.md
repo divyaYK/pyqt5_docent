@@ -11,3 +11,5 @@ Contents Include:
 - ComboBox
 - RadioBox
 - MessageBox
+- SpinBox
+- Text Editor Widget
