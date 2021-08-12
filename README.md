@@ -1,7 +1,7 @@
 ## Understanding PyQt5
 <span>My own guide</span>
 
-Contents Include:
+Contents Include:<br>
 Basics -
 - Simple Window Creation
 - Label Creation
