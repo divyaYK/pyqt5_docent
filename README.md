@@ -13,3 +13,4 @@ Contents Include:
 - MessageBox
 - SpinBox
 - Text Editor Widget
+- Timer Widget
