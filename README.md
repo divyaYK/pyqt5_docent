@@ -16,3 +16,8 @@ Basics -
 - Text Editor Widget
 - Timer Widget
 - List Widget
+<br>
+<br>
+Advanced -
+- Horizontal Box Layout
+- Vertical Box Layout

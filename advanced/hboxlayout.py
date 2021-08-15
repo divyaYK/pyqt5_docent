@@ -19,7 +19,7 @@ class Window(QWidget):
     hbox.addWidget(button2)
     hbox.addWidget(button3)
     hbox.addStretch()
-    
+
     self.setLayout(hbox)
 
     self.show()
