@@ -2,7 +2,7 @@
 <span>My own guide</span>
 
 Contents Include:<br>
-Basics -
+#### Basics -
 - Simple Window Creation
 - Label Creation
 - Button Creation
@@ -16,9 +16,7 @@ Basics -
 - Text Editor Widget
 - Timer Widget
 - List Widget
-<br>
-<br>
-Advanced -
+#### Advanced -
 - Horizontal Box Layout
 - Vertical Box Layout
 - Horizontal N Vertical Box Layout
