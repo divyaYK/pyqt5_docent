@@ -23,3 +23,4 @@ Advanced -
 - Vertical Box Layout
 - Horizontal N Vertical Box Layout
 - Form Layout
+- Slider Widget
