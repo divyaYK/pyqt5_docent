@@ -23,3 +23,4 @@ Contents Include:<br>
 - Form Layout
 - Slider Widget
 - Table Widget
+- Tab Widget
