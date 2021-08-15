@@ -4,7 +4,7 @@ from PyQt5.QtWidgets import QApplication, QCheckBox, QComboBox, QHBoxLayout, QPu
 class Window(QWidget):
   def __init__(self):
     super().__init__()
-    self.setWindowTitle("Horizontal Box Layout")
+    self.setWindowTitle("Horizontal N Vertical Box Layout")
     self.setGeometry(50, 50, 640, 480)
     self.UI()
 
