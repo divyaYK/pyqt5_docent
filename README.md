@@ -24,3 +24,4 @@ Contents Include:<br>
 - Slider Widget
 - Table Widget
 - Tab Widget
+- Menu Widget
