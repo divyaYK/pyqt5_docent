@@ -29,3 +29,4 @@ Contents Include:<br>
 - OpenFile Dialog
 - Font & Colour Dialog
 - Grid Layout
+- ProgressBar Widget
