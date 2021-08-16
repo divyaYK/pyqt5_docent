@@ -25,3 +25,4 @@ Contents Include:<br>
 - Table Widget
 - Tab Widget
 - Menu Widget
+- Toolbar

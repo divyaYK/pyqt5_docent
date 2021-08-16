@@ -24,6 +24,10 @@ class Window(QMainWindow):
     file.addAction(exit)
     # exit.setIcon(QIcon())
     exit.triggered.connect(self.exitFunction)
+
+    tb = self.addToolBar("New Toolbar")
+    newTab = QAction("new", self)
+    tb.addAction(newTab)
     self.show()
 
   def exitFunction(self):
