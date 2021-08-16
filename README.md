@@ -28,3 +28,4 @@ Contents Include:<br>
 - Toolbar
 - OpenFile Dialog
 - Font & Colour Dialog
+- Grid Layout

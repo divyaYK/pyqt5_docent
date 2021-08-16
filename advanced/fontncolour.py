@@ -5,7 +5,7 @@ from PyQt5.QtWidgets import QApplication, QColorDialog, QFileDialog, QFontDialog
 class Window(QWidget):
   def __init__(self):
     super().__init__()
-    self.setWindowTitle("Open File Dialog")
+    self.setWindowTitle("Font & Colour Dialog")
     self.setGeometry(50, 50, 640, 480)
     self.UI()
 
@@ -13,15 +13,13 @@ class Window(QWidget):
     vbox = QVBoxLayout()
     hbox = QHBoxLayout()
     self.editor = QTextEdit()
-    fileButton = QPushButton("Open File")
-    fileButton.clicked.connect(self.openfile)
+
     fontBtn = QPushButton("Change Font")
     fontBtn.clicked.connect(self.changefont)
     colorBtn = QPushButton("Change Colour")
     colorBtn.clicked.connect(self.changecolour)
 
     hbox.addStretch()
-    hbox.addWidget(fileButton)
     hbox.addWidget(fontBtn)
     hbox.addWidget(colorBtn)
     hbox.addStretch()
@@ -30,13 +28,6 @@ class Window(QWidget):
 
     self.setLayout(vbox)
     self.show()
-
-  def openfile(self):
-    url = QFileDialog.getOpenFileName(self, "Open a file", "", "All Files(*);;*txt")
-    fileUrl = url[0]
-    file = open(fileUrl, 'r')
-    content = file.read()
-    self.editor.setText(content)
 
   def changefont(self):
     font = QFontDialog.getFont()
