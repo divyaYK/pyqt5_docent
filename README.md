@@ -27,3 +27,4 @@ Contents Include:<br>
 - Menu Widget
 - Toolbar
 - OpenFile Dialog
+- Font & Colour Dialog
