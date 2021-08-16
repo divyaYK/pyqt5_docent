@@ -26,3 +26,4 @@ Contents Include:<br>
 - Tab Widget
 - Menu Widget
 - Toolbar
+- OpenFile Dialog

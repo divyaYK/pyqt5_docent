@@ -5,7 +5,7 @@ from PyQt5.QtWidgets import QAction, QApplication, QMainWindow
 class Window(QMainWindow):
   def __init__(self):
     super().__init__()
-    self.setWindowTitle("Menu Widget")
+    self.setWindowTitle("Toolbar")
     self.setGeometry(50, 50, 640, 480)
     self.UI()
 
